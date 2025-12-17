@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PrathamGoyal-dotcom
 - 👀 I’m interested in  Coding and Gaming
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Game programming and development 
 - 💞️ I’m looking to collaborate on  Any work to gain some knowledge
 - 📫 How to reach me Mail at prathamgoyal1911@gmail.com
   
