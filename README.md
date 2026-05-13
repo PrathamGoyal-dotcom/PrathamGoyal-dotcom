@@ -32,6 +32,7 @@ I'm passionate about blending code and creativity. Whether it's building interac
 
 <div align="center">
   <h3>📫 Let's Connect!</h3>
+  <p><strong>Email:</strong> <a href="mailto:prathamgoyal1911@gmail.com">prathamgoyal1911@gmail.com</a></p>
   <a href="mailto:prathamgoyal1911@gmail.com">
     <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" />
   </a>
