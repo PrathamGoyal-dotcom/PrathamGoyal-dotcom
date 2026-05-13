@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A1A,100:333333&height=250&section=header&text=Pratham%20Goyal&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="header banner" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=80&lines=Game+Developer+%7C+Unity3D+🎮;AR%2FVR+Interaction+Explorer+🕶️;Front-End+Web+Developer+🕸️;Building+Interactive+Realities+✨" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=80&lines=Game+Developer+and+Unity3D;AR+and+VR+Interaction;Front-End+Web+Developer;Building+Interactive+Realities" alt="Typing SVG" />
   </a>
 </div>
 
