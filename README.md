@@ -22,13 +22,11 @@ I'm passionate about blending code and creativity. Whether it's building interac
 - 🌱 **Learning:** AR/VR Interaction, Unity Game Development, and Front-End Web Development.
 - 🤝 **Looking to collaborate on:** Innovative indie games or creative web applications.
 
-### ⚡ Just For Fun
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true" alt="Jokes Card" />
-  <br/>
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=PrathamGoyal-dotcom&label=Profile%20Views&color=00E5FF&style=flat" alt="Profile Views" />
-</div>
+### 🏆 Featured Works & Portfolio
+
+*   🎮 **[Newtonian Physics Simulation](https://github.com/PrathamGoyal-dotcom/newton-simulator):** An interactive 3D physics engine and simulation built with **Unity** and compiled to **WebGL**. Packaged as a seamless Progressive Web App (PWA).
+*   🖐️ **[Gesture-Controlled Smart Home](https://github.com/PrathamGoyal-dotcom/gesture-control):** A real-time hardware interaction system. Uses **Python**, OpenCV, and Google Mediapipe to track hand gestures and control physical smart home devices via an ESP32 microcontroller.
+*   🤖 **[MAPS Gym Platform](https://github.com/PrathamGoyal-dotcom/MAPS):** A cinematic, interactive web platform featuring a premium member portal, dynamic UI animations, and an integrated **AI Chatbot** to enhance user engagement.
 
 <br/>
 
